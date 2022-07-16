@@ -1,3 +1,3 @@
 # Paperlog
 
-I keep a record papers I surveyed
+I keep a record papers I surveyed.
