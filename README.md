@@ -1,3 +1,3 @@
 # Paperlog
 
-I keep a record papers I surveyed.
+読んだ論文のメモを載せていきます
